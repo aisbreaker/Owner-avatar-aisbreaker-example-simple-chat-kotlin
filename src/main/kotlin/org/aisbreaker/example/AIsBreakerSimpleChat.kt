@@ -11,13 +11,13 @@ import org.aisbreaker.api.model.Request
 import org.aisbreaker.api.model.ResponseFinal
 
 /**
- * AIsBreakerSimpleChat
+ * AIsBreakerSimpleChat(kt)
  *
  * A simple chat example using AIsBreaker Java API.
  */
 fun main() {
-    println("AIsBreakerSimpleChat")
-    println("--------------------")
+    println("AIsBreakerSimpleChat(kt)")
+    println("------------------------")
 
     try {
         // service configuration: select the service/serviceId you want to use
